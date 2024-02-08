@@ -1,0 +1,14 @@
+.image {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.online {
+    font-size: 18px;
+    color: green;
+}
+
+.offline {
+    font-size: 18px;
+    color: red;
+}
